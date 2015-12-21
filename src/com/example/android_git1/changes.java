@@ -9,6 +9,7 @@ public class changes {
 		// TODO 自动生成的方法存根
 		String str="hi";
 		int a=1;
+		double b=0.1;
 		System.out.println(str.toString());
 	}
 
